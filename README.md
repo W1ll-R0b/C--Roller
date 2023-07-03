@@ -23,4 +23,4 @@ Spell Attack: "spell attack" or "spell" (To choose ability other than default, a
 
 Quit: "exit"
 
-*Note: add " adv" or " advantage" to an ability or saving throw roll to add advantage (i.e. "perc adv" rolls perception with advantage
+*Note: add " adv" or " advantage" to an ability or saving throw roll to add advantage (i.e. "perc adv" rolls perception with advantage)
