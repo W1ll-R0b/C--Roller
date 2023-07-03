@@ -1,0 +1,42 @@
+*Enter Spellcasting ability ('Charisma', 'Intelligence', or 'Wisdom')*
+DEFAULT SPELLCASTING ABILITY: Charisma
+
+*Enter Modifiers
+PROFICIENCY BONUS: +1
+STRENGTH MODIFIER: +1
+DEXTERITY MODIFIER: +1
+CONSTITUTION MODIFIER: +1
+INTELLIGENCE MODIFIER: +1
+WISDOM MODIFIER: +1
+CHARISMA MODIFIER: +1
+
+*Select Proficiencies. If proficient in skill or throw, leave marked as {X}. If not, remove the X, leaving as {}.
+*Example:
+*{X} Strength -- character is proficient
+*{} Strength -- character is not proficient
+
+*PROFICIENCIES:
+{X} Strength Saving Throw / strt
+{X} Dexterity Saving Throw / dext
+{X} Constitution Saving Throw / cont
+{X} Intelligence Saving Throw / intt
+{X} Wisdom Saving Throw / wist
+{X} Charisma Saving Throw / chat
+{X} Acrobatics / acro
+{X} Animal Handling / anim
+{X} Arcana / arca
+{X} Athletics / athl
+{X} Deception / dece
+{X} History / hist
+{X} Insight / insi
+{X} Intimidation / inti
+{X} Investigation / inve
+{X} Medicine / medi
+{X} Nature / natu
+{X} Perception / perc
+{X} Performance / perf
+{X} Persuasion / pers
+{X} Religion / reli
+{X} Sleight of Hand / slei
+{X} Stealth / stea
+{X} Survival / surv
