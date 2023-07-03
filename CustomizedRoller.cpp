@@ -107,7 +107,7 @@ int main() {
     "Death Saving Throw: \"deat\", \"death save\", or \"death saving throw\"\n"
     "Spell Attack: \"spell attack\" or \"spell\" (To choose ability other than default, add the ability name to the end, i.e. \"spell attack wisdom\" or \"spell int\")\n"
     "Quit: \"exit\"\n"
-    "*Note: add \" adv\" or \" advantage\" to an ability or saving throw roll to add advantage (i.e. \"perc adv\" rolls perception with advantage\n\n";
+    "*Note: add \" adv\" or \" advantage\" to an ability or saving throw roll to add advantage (i.e. \"perc adv\" rolls perception with advantage)\n\n";
     regex reg1 ("\\d*[dD]\\d{1,100}[+-]\\d{1,100}");
     regex reg2 ("\\d*[dD]\\d{1,100}");
     regex reg3 ("\\d{1,100}[+-]\\d{1,100}");
@@ -470,7 +470,7 @@ void abilitychecks(string input)
     }
     else
     {
-        cout << "\nInvalid Output\n";
+        cout << "\nInvalid Input\n";
         return;
     }
     if (adv == true)
