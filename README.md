@@ -3,7 +3,7 @@ This is a simple c++ program for dnd character roll management. The program work
 
 # Commands:
 
-Roll: "XdX+X", "XdX-X", "XdX\", "X"
+Roll: "XdX+X", "XdX-X", "XdX\", "X"\n
 Generate Character Stats: "stat gen"
 Base Stat Check: First three letters or stat name (i.e. "str" or "strength" for strength check)
 Ability Check: First 4 letters or ability name (i.e. "perc" or "perception" for perception check)
