@@ -1,4 +1,4 @@
-# Dnd-Character-Roller
+# C++-Roller
 This is a simple c++ program for random number generation dnd character roll management. The program works by editing a .txt file that records the character's modifiers and proficiencies. Random roll generation is done through a mersenne twister engine.
 
 # Setup:
