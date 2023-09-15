@@ -1,5 +1,5 @@
 # Dnd-Character-Roller
-This is a simple c++ program for dnd character roll management. The program works by editing a .txt file that records the character's modifiers and proficiencies. Random roll generation is done through a mersenne twister engine.
+This is a simple c++ program for random number generation dnd character roll management. The program works by editing a .txt file that records the character's modifiers and proficiencies. Random roll generation is done through a mersenne twister engine.
 
 # Setup:
 
@@ -7,9 +7,7 @@ Download the .zip containing the .exe and .txt file. To configure stats and modi
 
 # Commands:
 
-Roll: "XdX+X", "XdX-X", "XdX\", "X"
-
-Generate Character Stats: "stat gen"
+Roll: "XdX+x", "XdX-X"
 
 Base Stat Check: First three letters or stat name (i.e. "str" or "strength" for strength check)
 
@@ -22,5 +20,7 @@ Death Saving Throw: "deat", "death save", or "death saving throw"
 Spell Attack: "spell attack" or "spell" (To choose ability other than default, add the ability name to the end, i.e. "spell attack wisdom" or "spell int")
 
 Quit: "exit"
+
+Extra: "Coin flip", "8ball"
 
 *Note: add " adv" or " advantage" to an ability or saving throw roll to add advantage (i.e. "perc adv" rolls perception with advantage)
